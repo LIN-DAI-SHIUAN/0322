@@ -1,8 +1,2 @@
 ABCDE
-<<<<<<< HEAD
-WWWWW
-=======
-QQQQQ
->>>>>>> master
-
 QQQQQ
